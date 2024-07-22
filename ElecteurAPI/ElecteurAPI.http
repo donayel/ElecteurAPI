@@ -1,0 +1,6 @@
+@ElecteurAPI_HostAddress = http://localhost:5125
+
+GET {{ElecteurAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
